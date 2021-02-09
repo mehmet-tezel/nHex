@@ -1,6 +1,8 @@
 # nHex
 Basic string and hexadecimal value converting tool.
 
+**NOTE:** Operations are made with binary mode.
+
 Usage: nhex
 
 : -help => prints nhex help menu(argument list)

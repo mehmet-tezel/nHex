@@ -24,7 +24,3 @@ Usage: nhex
 : -r -h -w "filename" "filename2" => reads file and converts to string in another file
 
 - Good uses.
-
-[![Stargazers repo roster for @TzLcorp/nHex](https://reporoster.com/stars/TzLcorp/nHex)](https://github.com/TzLcorp/nHex/stargazers)
-
-[![Forkers repo roster for @TzLcorp/nHex](https://reporoster.com/forks/TzLcorp/nHex)](https://github.com/TzLcorp/nHex/network/members)
